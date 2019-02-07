@@ -1,0 +1,208 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#mainBody{
+margin-left: 30px;
+width: 1080px;
+height:1200px;
+}
+
+
+.hidden
+{
+	display: none;
+}
+
+#topBar
+{
+	background-color: black;
+	height: 80px;
+	color: #000000;
+}
+
+#topBar p
+{
+	height: 10px;
+	color: #ffffff;
+	font-size: 18px;
+	padding-bottom: 15px;
+}
+
+
+#mainNav
+{
+	width: 700px;
+	height: 30px;
+	margin-top:5px;
+	margin-left: -10px;
+}
+
+#mainNav ul
+{
+	list-style-type: none;
+	padding: 15px;
+}
+
+#mainNav ul li
+{
+	display: inline;
+	font-size: 15px;
+	margin-left: 6px;
+}
+
+#mainNav ul li a
+{
+	color: white;
+	padding: 10px;
+	background-color: black;
+	font-size: 15px;
+}
+#body1
+{
+	margin-top: 40px;
+	display: flex;
+	flex-direction: row;
+  	justify-content: space-between;
+	border-bottom: solid 1px #DDD;
+	padding-bottom: 40px;
+	padding-left: 10px;
+}
+
+
+#RodBuilding p{
+color: #ffffff;
+	 
+}
+
+#RodBuilding{
+	background-color: black;
+	width: 400px;
+	height: 500px;
+}
+
+
+
+
+#text {
+	float:left;
+	border:1px   width:40%; 
+	width: 630px;
+	height:500px;
+	background-color: grey;
+
+}
+
+#party{
+	width: 1080px;
+	height: 300px;
+	background-color: black;
+}
+
+#Gear{
+	width: 1080px;
+	height: 400px;
+	background-color: black;
+	border-bottom: solid 1px #DDD;
+
+}
+
+#line1{
+	display: flex;
+	flex-direction: row;
+  	justify-content: space-between;
+	border-bottom: solid 1px #DDD;
+	padding-bottom: 40px;
+	padding-left: 10px;
+}
+
+#line1 p{
+	margin-top: 20px;
+	width: 400px;
+	height: 100px;
+	background-color: black;
+
+}
+#line2{
+	display: flex;
+	flex-direction: row;
+  	justify-content: space-between;
+	border-bottom: solid 1px #DDD;
+	padding-bottom: 40px;
+	padding-left: 10px;
+}
+
+#line2 p{
+	margin-top: 20px;
+	width: 400px;
+	height: 100px;
+	background-color: black;}
+
+#icon5{
+	width: 1080px;
+	height: 100px;
+	
+	background-color: black;
+	margin-top: 20px;
+}
+
+#mainFooter{
+	background-color: black;
+	height: 120px;
+	color: #000000;
+	margin-top: 30px;
+}
+
+#About{
+	width: 1070px;
+	height: 300px;
+	background-color: black;
+	padding-left: 10px;
+	margin-top: 50px;
+
+}
+
+#About p{
+	color: #ffffff;
+}
+
+#More
+{
+	margin-top: 40px;
+	display: flex;
+	flex-direction: row;
+  	justify-content: space-between;
+	border-bottom: solid 1px #DDD;
+	padding-bottom: 40px;
+	padding-left: 10px;
+}
+
+
+#pic p{
+color: #ffffff;
+	 
+}
+
+#pic{
+	background-color: black;
+	width: 400px;
+	height: 300px;
+}
+
+
+
+
+#text2 {
+	float:left;
+	border:1px   width:40%; 
+	width: 630px;
+	height:300px;
+	background-color: grey;
+
+}
+
+#FUNDRAISING{
+	width: 1080px;
+	height: 300px;
+	background-color: black;
+
+}
